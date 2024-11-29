@@ -5,7 +5,7 @@ The notebook explores techniques for reducing the size of text data while retain
 
 To test the project:
 
-	- Open the jupyter file "main_lossy_text_compression".
+	- Open the jupyter file "main_lossy_text_compression.ipynb".
  
  	- Follow the instructions in the file to test the model.
   
